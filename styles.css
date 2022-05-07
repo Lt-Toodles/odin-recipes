@@ -16,3 +16,8 @@
     text-align: center;
     font-size: 40px;
 }
+
+.recipeimage{
+    height: auto;
+    width: 400px;
+}
