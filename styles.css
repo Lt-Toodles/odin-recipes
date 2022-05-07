@@ -17,6 +17,11 @@
     font-size: 40px;
 }
 
+.backtomainbutton{
+    background-color: magenta;
+    font-size: 90px;
+}
+
 .recipeimage{
     height: auto;
     width: 400px;
